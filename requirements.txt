@@ -1,0 +1,16 @@
+# Veri analizi
+pandas==2.1.1
+numpy==1.26.2
+
+# Görselleştirme
+matplotlib==3.8.1
+seaborn==0.12.3
+
+# Derin Öğrenme
+tensorflow==2.13.0
+
+# Notebook çalıştırmak için
+jupyter==1.0.0
+
+# Model kaydetmek/yüklemek için
+joblib==1.3.2
